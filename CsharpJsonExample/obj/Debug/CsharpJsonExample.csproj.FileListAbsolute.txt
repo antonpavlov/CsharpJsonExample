@@ -1,0 +1,9 @@
+C:\Users\pavlo\source\repos\CsharpJsonExample\CsharpJsonExample\bin\Debug\CsharpJsonExample.exe.config
+C:\Users\pavlo\source\repos\CsharpJsonExample\CsharpJsonExample\bin\Debug\CsharpJsonExample.exe
+C:\Users\pavlo\source\repos\CsharpJsonExample\CsharpJsonExample\bin\Debug\CsharpJsonExample.pdb
+C:\Users\pavlo\source\repos\CsharpJsonExample\CsharpJsonExample\obj\Debug\CsharpJsonExample.csproj.CoreCompileInputs.cache
+C:\Users\pavlo\source\repos\CsharpJsonExample\CsharpJsonExample\obj\Debug\CsharpJsonExample.exe
+C:\Users\pavlo\source\repos\CsharpJsonExample\CsharpJsonExample\obj\Debug\CsharpJsonExample.pdb
+C:\Users\pavlo\source\repos\CsharpJsonExample\CsharpJsonExample\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pavlo\source\repos\CsharpJsonExample\CsharpJsonExample\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pavlo\source\repos\CsharpJsonExample\CsharpJsonExample\obj\Debug\CsharpJsonExample.csproj.CopyComplete
